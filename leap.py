@@ -2,7 +2,6 @@ import time, pyautogui
 from datetime import datetime
 from mss import mss
 from PIL import Image
-print('Leapforce industries {r}')
 print(pyautogui.position())
 while True:
     time.sleep(55)
